@@ -16,3 +16,5 @@ This example shows how to set up a pyflink application  using docker container a
 10. To run the service: `docker compose up -d`  (-d flag is for detached mode to run your services in the background)
 11. To inspect the running containers: `docker compose ps (or docker ps)`: 
 12. browse Apache Flink Dashboard in localhost:8085
+
+![flink ui](flink-web-ui.png)
